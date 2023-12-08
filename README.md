@@ -3,9 +3,11 @@
 
 ----
 ### Materials
-1 - [Git](https://git-scm.com/doc)
-2 - [GitHub Hello World](https://guides.github.com/activities/hello-world/)
-3-  [GitHub. Common workflows](https://drive.google.com/file/d/1ScaBHdoBatP-MaWqqvTmBeuO\_A7nyhJ4/view?usp=sharing)
+1: [Git](https://git-scm.com/doc)
+
+2: [GitHub Hello World](https://guides.github.com/activities/hello-world/)
+
+3:  [GitHub. Common workflows](https://drive.google.com/file/d/1ScaBHdoBatP-MaWqqvTmBeuO\_A7nyhJ4/view?usp=sharing)
 
 ### Task #1
 
